@@ -1,3 +1,5 @@
+# Ensemble Distillation for Robust Model Fusion in Federated Learning 논문 코드 (2번 논문)
+
 This repository maintains a codebase for Federated Learning research. It supports:
 * PyTorch with MPI backend for a Master-Worker computation/communication topology.
 * Local training can be efficiently executed in a parallel-fashion over GPUs for randomly sampled clients.
